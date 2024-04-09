@@ -1,0 +1,23 @@
+.profilePicSetBtn{
+    background-color: #195eeb !important;
+    box-shadow: none !important;
+}
+.profilePicSetBtn:hover{
+    background-color: #1756d6 !important;
+}
+.profileNameCancleBtn{
+    color: #b2b2b2 !important;
+    text-transform: capitalize !important;
+
+}
+.profileNameSaveBtn{
+    background-color: #195eeb !important;
+    box-shadow: none !important;
+    text-transform: capitalize !important;
+    border-radius: 20px !important;
+}
+.verifyOffBtn{
+    background-color: #195eeb !important;
+    color: white !important;
+    width: 25%;
+}

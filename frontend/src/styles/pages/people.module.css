@@ -1,0 +1,40 @@
+.friendsMenu{
+    display: column !important;
+}
+.friendsMenuBtn{
+    text-transform: capitalize !important;
+    color: #252525 !important;
+    font-size: 18px !important;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    margin-top: 10px !important;
+}
+.friendsCardName{
+    margin-left: 30px !important;
+    margin-top: 15px !important;
+}
+.friendsActionBtnFollow{
+    text-transform: capitalize !important;
+    border-radius: 50px !important;
+}
+.friendsActionBtnIgnore{
+    text-transform: capitalize !important;
+    border-radius: 50px !important;
+}
+.friendSuggestions{
+    background-color: red !important;  
+}
+
+@media (max-width: 425px) {
+    .friendsCardName{
+        font-size: 20px !important;
+    }
+    .friendsMenuBtn{
+        font-size: 15px !important;
+    }
+    .friendsCardName{
+        font-size: 18px !important;
+    }
+    
+
+}

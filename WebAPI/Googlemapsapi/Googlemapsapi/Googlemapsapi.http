@@ -1,0 +1,6 @@
+@Googlemapsapi_HostAddress = http://localhost:5158
+
+GET {{Googlemapsapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

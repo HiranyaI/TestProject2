@@ -1,0 +1,8 @@
+.friendName{
+    margin-left: 15px !important;
+}
+.friendsCardButton{
+    text-transform: capitalize !important;
+    color: #195eeb !important;
+    white-space: nowrap !important;
+}

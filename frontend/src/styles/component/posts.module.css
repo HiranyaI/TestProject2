@@ -1,0 +1,21 @@
+
+.CardHeader{
+display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.CardHeaderLeft{
+    display: flex;
+  align-items: center;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+.profileName{
+    font-size: 16px;
+  font-weight: 500;
+  margin: 0 10px;
+  display: inline;
+}
+.postDate{
+    font-size: 12px;
+}

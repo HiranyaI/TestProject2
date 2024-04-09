@@ -1,0 +1,60 @@
+.coverImg{
+    width: 100%;    
+}
+.profileImg {
+    position: absolute;
+    border-radius: 50%;
+    margin-top: -75px;
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;
+}
+.profileEdit{
+    background-color: #eeeeee !important;
+    text-transform: capitalize !important;
+    color: #252525 !important;
+    
+    white-space: nowrap !important;
+    position: relative !important;
+    margin-left: 75% !important;
+}
+.friendFollowBtn{
+    background-color: #195eeb !important;
+    color: white !important;
+    text-transform: capitalize !important;
+    box-shadow: none !important;
+}
+.friendMessageBtn{
+    background-color: #eeeeee !important;
+    color:#8e8e8e !important;
+    text-transform: capitalize !important;
+    box-shadow: none !important;
+}
+
+/*FRIEND SUGGESTION CARD*/
+.friendName{
+    margin-left: 20px !important;
+    margin-top: 10px !important;
+}
+.friendsCardButton{
+    text-transform: capitalize !important;
+    color: #195eeb !important;
+    white-space: nowrap !important;
+}
+.friedSuggFollowBtn:hover{
+    background-color: #1756d6 !important;
+    box-shadow: none !important;
+}
+.friedSuggRemoveBtn:hover{
+    background-color: #cbcbcb !important;
+    box-shadow: none !important;
+}
+/*END FRIEND SUGGESTION CARD*/
+
+
+@media (max-width: 900px) {
+    .feedContainerRight{
+        display: none !important;
+    }
+}
+

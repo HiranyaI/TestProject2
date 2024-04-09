@@ -1,0 +1,16 @@
+.settingsListLeft{
+    flex: 4 !important;
+    color: #3e3e3e;
+}
+
+.settingsListCenter{
+    flex: 4 !important;
+    color: #3e3e3e;
+}
+
+.settingsListRight{
+    flex: 4 !important;
+}
+.settingsMenuIcons{
+    font-size: 20px !important;
+}

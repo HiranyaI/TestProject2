@@ -1,0 +1,10 @@
+.cardName{
+    font-size: 25px !important;
+
+}
+.chatCardButton{
+    text-transform: capitalize !important;
+    color: #195eeb !important;
+    white-space: nowrap !important;
+    
+}

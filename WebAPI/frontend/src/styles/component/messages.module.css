@@ -1,0 +1,14 @@
+.friendsMenuRight{
+    background-color: rgb(216, 155, 155) ;
+    overflow-y: scroll;
+    height: calc(100vh - 64px);
+    position: sticky !important;
+    top: 64px;
+}
+
+.msgSendBtn{
+    background-color: #195eeb !important;
+}
+.msgSendBtn:hover{
+    background-color: #1243a7 !important;
+}

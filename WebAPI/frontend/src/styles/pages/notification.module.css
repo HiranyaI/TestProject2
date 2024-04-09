@@ -1,0 +1,17 @@
+.notiClearBtn{
+    color: #195eeb !important;
+    text-transform: capitalize !important;
+    font-weight: 600 !important;
+}
+.notifiChips:hover{
+    background-color: #1243a7 !important;
+}
+
+@media (max-width: 900px){
+    .notificationCardLeft{
+        margin-top: 10px !important;
+    }
+    .notificationCardRight{
+        margin-top: 5px !important;
+    }
+}

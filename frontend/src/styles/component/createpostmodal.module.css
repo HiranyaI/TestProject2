@@ -1,0 +1,12 @@
+.publicIconBtn{
+    font-size: 15px !important;
+}
+.PostBtn{
+    background-color: #195eeb !important;
+    text-transform: capitalize !important;
+    margin-top: 20px !important;
+}
+
+.PostBtn:hover{
+    background-color: #1756d6 !important;
+}
